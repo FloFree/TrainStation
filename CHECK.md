@@ -1,7 +1,7 @@
 # CHECK
 
-File check
+File check: jump!
 
 - one.1 master
 - two.2 develop
-- tre
+- tre.3 direct-stop
