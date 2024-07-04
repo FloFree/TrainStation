@@ -7,3 +7,4 @@ File check: jump!
 - tre.3 direct-stop
 
 - step two
+- step tre
